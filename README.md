@@ -20,10 +20,6 @@ A platform where users can interact, play games, stream live, and personalize th
 
 
 
-pip install -r requirements.txt
-
-
-python main.py
 
 ---
 
