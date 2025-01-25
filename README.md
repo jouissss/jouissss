@@ -18,10 +18,6 @@ A platform where users can interact, play games, stream live, and personalize th
 - PyQt5
 - OpenCV
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your_username/gaming-platform.git
 
 
 pip install -r requirements.txt
